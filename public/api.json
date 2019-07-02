@@ -1,0 +1,281 @@
+﻿[{
+        "id": 1,
+        "mountains": "Góry Świętokrzyskie",
+        "name": "ŁYSICA",
+        "height": 613.7,
+        "coordinates": "50°53'27.0 N 20°54'03.0 E",
+        "google-north": "50.890833", 
+        "google-east": "20.900833",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Lysica_20080701_3630.jpg"
+    },
+    {
+        "id": 2,
+        "mountains": "Masyw Ślęży (Przedgórze Sudeckie)",
+        "name": "ŚLĘŻA",
+        "height": 718,
+        "coordinates": "50°51′54 N 16°42′31 E",
+        "google-north": "50.865640", 
+        "google-east": "16.707603",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/%C5%9Al%C4%99%C5%BCa_-_widok_z_Wie%C5%BCycy.jpg"
+    },
+    {
+        "id": 3,
+        "mountains": "Góry Kaczawskie",
+        "name": "SKOPIEC",
+        "height": 724,
+        "coordinates": "50°56′40 N 15°53′06 E",
+        "google-north": "50.944574", 
+        "google-east": "15.884976",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Skopiec_mit2.JPG"
+    },
+    {
+        "id": 4,
+        "mountains": "Góry Bardzkie",
+        "name": "KŁODZKA GÓRA",
+        "height": 765,
+        "coordinates": "50°27′05,95 N 16°45′11,56 E",
+        "google-east": "50.4516517",
+        "google-north": "16.7444354",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2014_K%C5%82odzka_G%C3%B3ra_i_Ostra_G%C3%B3ra%2C_G%C3%B3ry_Bardzkie%2C_Sudety.jpg"
+    },
+    {
+        "id": 5,
+        "mountains": "Góry Wałbrzyskie",
+        "name": "CHEŁMIEC",
+        "height": 869,
+        "coordinates": "50°46′45 N 16°12′37 E",
+        "google-north": "50.7797213",
+        "google-east": "16.2031683",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Che%C5%82miec_%28szczyt%29-widok.jpg"
+    },
+    {
+        "id": 6,
+        "mountains": "Góry Opawskie",
+        "name": "BISKUPIA KOPA",
+        "height": 889,
+        "coordinates": "50°15′21,607 N 17°25′22,048 E",
+        "google-north": "50.2566838",
+        "google-east": "17.4199915",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/Biskupia_Kopa.jpg"
+    },
+    {
+        "id": 7,
+        "mountains": "Beskid Makowski",
+        "name": "LUBOMIR",
+        "height": 904,
+        "coordinates": "49°46′01 N 20°03′35 E",
+        "google-north": "49.7666657",
+        "google-east": "20.0537238",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pasmo_Lubomira_%C4%863.jpg"
+    },
+    {
+        "id": 8,
+        "mountains": "Góry Stołowe",
+        "name": "SZCZELINIEC WIELKI",
+        "height": 919,
+        "coordinates": "50°29′09 N 16°20′21 E",
+        "google-north": "50.4836576",
+        "google-east": "16.340173",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/2015_Szczeliniec_Wielki_02.JPG"
+    },
+    {
+        "id": 9,
+        "mountains": "Beskid Mały",
+        "name": "CZUPEL",
+        "height": 930,
+        "coordinates": "49°45′58 N 19°09′19 E",
+        "google-north": "49.7661039",
+        "google-east": "19.1465011",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/POLAND_BeskidMaly_Czupel_933m.jpg"
+    },
+    {
+        "id": 10,
+        "mountains": "Góry Kamienne",
+        "name": "WALIGÓRA",
+        "height": 936,
+        "coordinates": "50°41′N 16°17′E",
+        "google-north": "50.6807499",
+        "google-east": "16.2693006",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Waligora_walbrzyskie_01.jpg"
+    },
+    {
+        "id": 11,
+        "mountains": "Rudawy Janowickie",
+        "name": "SKALNIK",
+        "height": 944,
+        "coordinates": "50°48′30,49″N 15°54′00,25″E",
+        "google-north": "50.8049846",
+        "google-east": "15.8669971",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Skalnik_mit.JPG"
+    },
+    {
+        "id": 12,
+        "mountains": "Góry Bystrzyckie",
+        "name": "JAGODNA",
+        "height": 977,
+        "coordinates": "50°15′08,86″N 16°33′51,90″E",
+        "google-north": "50.2527785",
+        "google-east": "16.5578904",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jagodna_mit.jpg"
+    },
+    {
+        "id": 13,
+        "mountains": "Góry Złote",
+        "name": "KOWADŁO",
+        "height": 988,
+        "coordinates": "50°15′51,96″N 17°00′47,59″E",
+        "google-north": "50.2638879",
+        "google-east": "17.0051126",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/2016_Kowad%C5%82o%2C_G%C3%B3ry_Z%C5%82ote.jpg"
+    },
+    {
+        "id": 14,
+        "mountains": "Beskid Niski",
+        "name": "LACKOWA",
+        "height": 997,
+        "coordinates": "49°25′42″N 21°05′46″E",
+        "google-north": "49.4293973",
+        "google-east": "21.0875916",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Izby%2C_cerkiew_%C5%9Bw._%C5%81ukasza_%28HB4%29.jpg"
+    },
+    {
+        "id": 15,
+        "mountains": "Góry Sowie",
+        "name": "WIELKA SOWA",
+        "height": 1015,
+        "coordinates": "50°40′48,57″N 16°29′07,79″E",
+        "google-north": "50.680344",
+        "google-east": "16.4767215",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Wielka_Sowa_Widok_od_Walig%C3%B3ry.jpg"
+    },
+    {
+        "id": 16,
+        "mountains": "Pieniny",
+        "name": "WYSOKA",
+        "height": 1050,
+        "coordinates": "49°22′49″N 20°33′20″E",
+        "google-north": "49.3819212",
+        "google-east": "20.552341",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Widok_na_szczyt_Wysokiej_01.jpg"
+    },
+    {
+        "id": 17,
+        "mountains": "Góry Orlickie",
+        "name": "ORLICA",
+        "height": 1084,
+        "coordinates": "50°21′11,47″N 16°21′38,59″E",
+        "google-north": "50.3499991",
+        "google-east": "16.3412238",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Orlica.JPG"
+    },
+    {
+        "id": 18,
+        "mountains": "Góry Bialskie",
+        "name": "RUDAWIEC",
+        "height": 1112,
+        "coordinates": "50°14′38,6″N 16°58′33,2″E",
+        "google-north": "50.2440541",
+        "google-east": "16.9583794",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gory_Bialskie.jpg"
+    },
+    {
+        "id": 19,
+        "mountains": "Góry Izerskie",
+        "name": "WYSOKA KOPA",
+        "height": 1126,
+        "coordinates": "50°51′01″N 15°25′12″E",
+        "google-north": "50.8500127",
+        "google-east": "15.4106896",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Wysoka_Kopa_mit.JPG"
+    },
+    {
+        "id": 20,
+        "mountains": "Beskid Wyspowy",
+        "name": "MOGIELICA",
+        "height": 1170,
+        "coordinates": "49°39′18,7″N 20°16′36,1″E",
+        "google-north": "49.6552435",
+        "google-east": "20.2680788",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mogielica_a12.jpg"
+    },
+    {
+        "id": 21,
+        "mountains": "Beskid Śląski",
+        "name": "SKRZYCZNE",
+        "height": 1257,
+        "coordinates": "49°41′04″N 19°01′49″E",
+        "google-north": "49.6844622",
+        "google-east": "19.0214072",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Skrzyczne_mountain.jpg"
+    },
+    {
+        "id": 22,
+        "mountains": "Beskid Sądecki",
+        "name": "RADZIEJOWA",
+        "height": 1262,
+        "coordinates": "49°26′58″N 20°36′16″E",
+        "google-north": "49.4493538",
+        "google-east": "20.5953766",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Radziejowa_seen_from_Ma%C5%82y_Rogacz.jpg"
+    },
+    {
+        "id": 23,
+        "mountains": "Gorce",
+        "name": "TURBACZ",
+        "height": 1310,
+        "coordinates": "49°32′34,6″N 20°06′41,6″E",
+        "google-north": "49.5429309",
+        "google-east": "20.10259",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Turbacz_a15.jpg"
+    },
+    {
+        "id": 24,
+        "mountains": "Bieszczady",
+        "name": "TARNICA",
+        "height": 1346,
+        "coordinates": "49°04′28,98″N 22°43′50,00″E",
+        "google-north": "49.0745679",
+        "google-east": "22.7174949",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Tarnica%2C_Bieszczady_%28by_Pudelek%29.JPG"
+    },
+    {
+        "id": 25,
+        "mountains": "Masyw Śnieżnika",
+        "name": "ŚNIEŻNIK",
+        "height": 1425,
+        "coordinates": "50°12′25,214″N 16°50′57,214″E",
+        "google-north": "50.2075319",
+        "google-east": "16.8386078",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/24/Snieznik_Klodzki_mountain_%28southern_side%29.jpeg"
+    },
+    {
+        "id": 26,
+        "mountains": "Karkonosze",
+        "name": "ŚNIEŻKA",
+        "height": 1602,
+        "coordinates": "50°44′09″N 15°44′21″E",
+        "google-north": "50.7360162",
+        "google-east": "15.7311695",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Śnieżka_z_zachodu.jpg"
+    },
+    {
+        "id": 27,
+        "mountains": "Beskid Żywiecki",
+        "name": "BABIA GÓRA",
+        "height": 1725,
+        "coordinates": "49°34′24″N 19°31′46″E",
+        "google-north": "49.573162",
+        "google-east": "19.5220202",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Babia_Góra_górne_partie.jpg"
+    },
+    {
+        "id": 28,
+        "mountains": "Tatry",
+        "name": "RYSY",
+        "height": 2499,
+        "coordinates": "49°10′46″N 20°05′18″E",
+        "google-east": "49.179556", 
+        "google-north": "20.088101",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rysy%2C_szczyt.jpg"
+    }
+]
